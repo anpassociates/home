@@ -1,0 +1,120 @@
+/*
+============== background Color====================
+*/
+.btn-text,
+.bluelight,
+.searchBTN,
+.pricing-btn .get-start,
+.skinonebg,
+.newsletter .newsletter-btn,
+.nav > li > a, .nav > li > a,
+.border-box:hover,
+.panel-default > .panel-heading,
+#testimonial-2 .owl-carousel.white .owl-controls .owl-dot.active span,
+#testimonial-2 .owl-carousel.white .owl-controls .owl-dot:hover span,
+#testimonial .owl-dot.active,
+.bg-color--black,
+.btn-Blue,
+.border-box:hover,
+#pricingIncluded .plan-list,
+.bright_blue,
+.pricing-bigger .pricing-header,
+.pricing-bigger .get-start,
+.block.type-4 .table.style-1 tr:nth-child(2n),
+#domain-pricelist table thead,
+.blog-date,
+.dark-bg,
+.pagination-nav ul li.active a,
+.pagination-nav ul li:hover a,
+.sidebar-widget .widget-tag li a:hover,
+.ui-input-group .input-bar:before,
+.ui-input-group .input-bar:after,
+.faq .collape-plus,
+.icons-hover-black i:hover,
+.find_domain .select_list ul li .checkbox:checked + label:after {
+  background: #168be8;
+}
+
+.bluedark,
+.skinoneplancolor,
+.nav > li > a, .nav > li > a:hover,
+.btn-Blue-dark,
+.block.type-4 .table.style-1 tr {
+  background: #126fb9;
+}
+
+.ui-timeline .tl-item .tl-body .tl-entry .btn-primary {
+  background-color: #168be8 !important;
+  border-color: #168be8 !important;
+}
+
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus,
+.tp-caption.modern_big_redbg,
+.pricing-choose li:nth-child(2), .pricing-choose li:nth-child(4), .pricing-choose li:nth-child(6), .pricing-choose li:nth-child(8), .pricing-choose li:nth-child(10), .pricing-choose li:nth-child(12),
+.block.type-4 .table.style-1 tr th {
+  background-color: #168be8;
+}
+
+.pricing--content:hover .pricing--header,
+.pricing--content.active .pricing--header,
+.pricing-bigger .pricing-choose {
+  background-color: #126fb9;
+}
+
+/*
+============== Text Color====================
+*/
+.caption-darkblue,
+.price-blue--color,
+.get-start,
+.star i,
+.pricing--features .fa-check,
+.pricing-btn .get-start.white-btn,
+.blue-color,
+.sidebar-widget ul li a:hover,
+.pagination-nav ul li a,
+.post-meta span > a > i,
+.lead-point li,
+.blog-post .fa-tag,
+.ui-input-group > input:focus ~ label,
+.ui-input-group > textarea:focus ~ label,
+.contact .icon-circle {
+  color: #168be8;
+}
+
+.widget-tag li a {
+  color: #168be8 !important;
+}
+
+/*
+============== Border Color====================
+*/
+.btn-text,
+.find_domain .select_list ul li label:after,
+.pricing-wrap,
+#testimonial .client-pic,
+#testimonial .owl-dot,
+.border-top,
+.post-meta span > a > i,
+.widget-tag li a,
+.widget-search input[type="text"]:focus,
+.pagination-nav ul li a,
+.blog-post-hr input[type="text"]:focus, .blog-post-hr textarea:focus,
+.custom-check,
+.client-avtar,
+.contact .icon-circle,
+.contact-form input[type="text"]:focus, .contact-form textarea:focus {
+  border-color: #168be8;
+}
+
+#pricingIncluded .plan-list:after {
+  border-left-color: #168be8;
+}
+
+.skinonefeatures li,
+.skinonefeaturedreq,
+.pricing-choose .pricing-body ul li {
+  border-color: #44a2ed;
+}
